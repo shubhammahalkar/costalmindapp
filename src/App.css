@@ -1,0 +1,24 @@
+.customer{
+  padding-top: 300px;
+  text-align: center;
+  
+}
+.button{
+  padding: 20px;
+  border: 1px solid gold;
+  border-radius:10px;
+}
+
+.loding{
+  text-align: center;
+  padding-top: 300px;
+  font-size: 26px;
+  
+}
+.edit{
+  padding: 10px;
+
+}
+.delete{
+  margin-left: 5px;
+}
